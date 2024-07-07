@@ -1,0 +1,1170 @@
+{
+    "1": {
+        "branchName": " צמרות",
+        "branchCity": "הרצליה"
+    },
+    "2": {
+        "branchName": " ניות",
+        "branchCity": "ירושלים"
+    },
+    "4": {
+        "branchName": " משחררים",
+        "branchCity": "באר שבע"
+    },
+    "5": {
+        "branchName": " בית אמריקה",
+        "branchCity": "פתח תקווה"
+    },
+    "6": {
+        "branchName": " אורון",
+        "branchCity": "פתח תקווה"
+    },
+    "7": {
+        "branchName": " גילה",
+        "branchCity": "ירושלים"
+    },
+    "8": {
+        "branchName": " רמת אביב",
+        "branchCity": "תל אביב - יפו"
+    },
+    "9": {
+        "branchName": " כפר סבא",
+        "branchCity": "כפר סבא"
+    },
+    "10": {
+        "branchName": " קניון איילון",
+        "branchCity": "רמת גן"
+    },
+    "12": {
+        "branchName": " גבעת סביון",
+        "branchCity": "גבעת סביון"
+    },
+    "13": {
+        "branchName": " חורב",
+        "branchCity": "חיפה"
+    },
+    "14": {
+        "branchName": " קניון השרון",
+        "branchCity": "נתניה"
+    },
+    "15": {
+        "branchName": " גאלרי קריון",
+        "branchCity": "קרית ביאליק"
+    },
+    "16": {
+        "branchName": " נס ציונה",
+        "branchCity": "נס ציונה"
+    },
+    "17": {
+        "branchName": " דיזינגוף סנטר",
+        "branchCity": "תל אביב - יפו"
+    },
+    "18": {
+        "branchName": " קניון הנגב",
+        "branchCity": "באר שבע"
+    },
+    "20": {
+        "branchName": " סינמול",
+        "branchCity": "חיפה"
+    },
+    "24": {
+        "branchName": " תל השומר",
+        "branchCity": "רמת גן"
+    },
+    "25": {
+        "branchName": " ראשון צפון",
+        "branchCity": "ראשון לציון"
+    },
+    "26": {
+        "branchName": " סוקולוב הרצליה",
+        "branchCity": "הרצליה"
+    },
+    "27": {
+        "branchName": " מדרחוב",
+        "branchCity": "ירושלים"
+    },
+    "28": {
+        "branchName": " אשקלון גירון",
+        "branchCity": "אשקלון"
+    },
+    "29": {
+        "branchName": " כופר הישוב",
+        "branchCity": "רמת גן"
+    },
+    "30": {
+        "branchName": " מלחה",
+        "branchCity": "ירושלים"
+    },
+    "32": {
+        "branchName": " קניון הזהב",
+        "branchCity": "ראשון לציון"
+    },
+    "33": {
+        "branchName": " תחנה מרכזית",
+        "branchCity": "תל אביב - יפו"
+    },
+    "35": {
+        "branchName": " רעננה פארק מול",
+        "branchCity": "רעננה"
+    },
+    "36": {
+        "branchName": " ערד",
+        "branchCity": "ערד"
+    },
+    "38": {
+        "branchName": " חוצות המפרץ",
+        "branchCity": "חיפה"
+    },
+    "39": {
+        "branchName": " לונדון מיניסטור",
+        "branchCity": "תל אביב - יפו"
+    },
+    "40": {
+        "branchName": " אשדוד סיטי",
+        "branchCity": "אשדוד"
+    },
+    "42": {
+        "branchName": " קרית שמונה",
+        "branchCity": "קרית שמונה"
+    },
+    "43": {
+        "branchName": " עפולה",
+        "branchCity": "עפולה"
+    },
+    "44": {
+        "branchName": " נווה שאנן",
+        "branchCity": "חיפה"
+    },
+    "45": {
+        "branchName": " קניון רחובות",
+        "branchCity": "רחובות"
+    },
+    "46": {
+        "branchName": " רוטשילד",
+        "branchCity": "ראשון לציון"
+    },
+    "47": {
+        "branchName": " שאול המלך ב\"ש",
+        "branchCity": "באר שבע"
+    },
+    "48": {
+        "branchName": " שפיים",
+        "branchCity": "שפיים"
+    },
+    "49": {
+        "branchName": " שוהם",
+        "branchCity": "שוהם"
+    },
+    "50": {
+        "branchName": " אורדע",
+        "branchCity": "רמת גן"
+    },
+    "51": {
+        "branchName": " לישנסקי",
+        "branchCity": "ראשון לציון"
+    },
+    "52": {
+        "branchName": " בילו סנטר",
+        "branchCity": "רחובות"
+    },
+    "53": {
+        "branchName": " גאלרי מול הים",
+        "branchCity": "אילת"
+    },
+    "54": {
+        "branchName": " הוד השרון",
+        "branchCity": "הוד השרון"
+    },
+    "55": {
+        "branchName": " ביג באר שבע",
+        "branchCity": "באר שבע"
+    },
+    "56": {
+        "branchName": " רעננה אחוזה",
+        "branchCity": "רעננה"
+    },
+    "57": {
+        "branchName": " נצרת",
+        "branchCity": "נצרת"
+    },
+    "59": {
+        "branchName": " היכל",
+        "branchCity": "פתח תקווה"
+    },
+    "61": {
+        "branchName": " קניון עזריאלי ת\"א",
+        "branchCity": "תל אביב - יפו"
+    },
+    "64": {
+        "branchName": " מרום נווה",
+        "branchCity": "רמת גן"
+    },
+    "65": {
+        "branchName": " שיכון דן",
+        "branchCity": "תל אביב - יפו"
+    },
+    "66": {
+        "branchName": " קניון חולון",
+        "branchCity": "חולון"
+    },
+    "67": {
+        "branchName": " כרמיאל",
+        "branchCity": "כרמיאל"
+    },
+    "68": {
+        "branchName": " קניון רננים",
+        "branchCity": "רעננה"
+    },
+    "71": {
+        "branchName": " טבריה",
+        "branchCity": "טבריה"
+    },
+    "72": {
+        "branchName": " קרית אתא",
+        "branchCity": "קרית אתא"
+    },
+    "73": {
+        "branchName": " גורדון",
+        "branchCity": "תל אביב - יפו"
+    },
+    "74": {
+        "branchName": " מעלה אדומים",
+        "branchCity": "מעלה אדומים"
+    },
+    "75": {
+        "branchName": " שער אשקלון",
+        "branchCity": "אשקלון"
+    },
+    "76": {
+        "branchName": " קרית רמלה",
+        "branchCity": "רמלה"
+    },
+    "77": {
+        "branchName": " גרנד קניון",
+        "branchCity": "חיפה"
+    },
+    "78": {
+        "branchName": " רמז נתניה",
+        "branchCity": "נתניה"
+    },
+    "79": {
+        "branchName": " סיטי סנטר",
+        "branchCity": "חיפה"
+    },
+    "81": {
+        "branchName": " הרצל רחובות",
+        "branchCity": "רחובות"
+    },
+    "82": {
+        "branchName": " ארמון חיפה",
+        "branchCity": "חיפה"
+    },
+    "83": {
+        "branchName": " שנקין",
+        "branchCity": "תל אביב - יפו"
+    },
+    "84": {
+        "branchName": " גן שמואל",
+        "branchCity": "גן שמואל"
+    },
+    "85": {
+        "branchName": " לב חדרה",
+        "branchCity": "חדרה"
+    },
+    "86": {
+        "branchName": " פרדס חנה",
+        "branchCity": "פרדס חנה כרכור"
+    },
+    "87": {
+        "branchName": " שבעת הכוכבים",
+        "branchCity": "הרצליה"
+    },
+    "88": {
+        "branchName": " גבעת שאול",
+        "branchCity": "ירושלים"
+    },
+    "90": {
+        "branchName": " נאות שקמה",
+        "branchCity": "ראשון לציון"
+    },
+    "91": {
+        "branchName": " זכרון יעקב",
+        "branchCity": "זכרון יעקב"
+    },
+    "93": {
+        "branchName": " בית שמש",
+        "branchCity": "בית שמש"
+    },
+    "94": {
+        "branchName": " ת\"מ ירושלים",
+        "branchCity": "ירושלים"
+    },
+    "95": {
+        "branchName": " תלפיות",
+        "branchCity": "ירושלים"
+    },
+    "96": {
+        "branchName": " בן-גוריון",
+        "branchCity": "רמת גן"
+    },
+    "97": {
+        "branchName": " מגדל הורד",
+        "branchCity": "גבעתיים"
+    },
+    "98": {
+        "branchName": " קרית אונו",
+        "branchCity": "קרית אונו"
+    },
+    "100": {
+        "branchName": " מרכז דוד אפרידר",
+        "branchCity": "אשקלון"
+    },
+    "101": {
+        "branchName": " מודיעין שמשוני",
+        "branchCity": "מודיעין - מכבים - רעות"
+    },
+    "102": {
+        "branchName": " נחל עשן",
+        "branchCity": "באר שבע"
+    },
+    "103": {
+        "branchName": " גבעת טל",
+        "branchCity": "ראש העין"
+    },
+    "104": {
+        "branchName": " ביג פולג",
+        "branchCity": "נתניה"
+    },
+    "105": {
+        "branchName": " נהריה געתון",
+        "branchCity": "נהריה"
+    },
+    "106": {
+        "branchName": " נהריה רגבה",
+        "branchCity": "רגבה"
+    },
+    "107": {
+        "branchName": " איכילוב",
+        "branchCity": "תל אביב - יפו"
+    },
+    "109": {
+        "branchName": " אבן גבירול",
+        "branchCity": "תל אביב - יפו"
+    },
+    "110": {
+        "branchName": " מרינה",
+        "branchCity": "הרצליה"
+    },
+    "111": {
+        "branchName": " אודיטוריום",
+        "branchCity": "חיפה"
+    },
+    "112": {
+        "branchName": " ביג אילת",
+        "branchCity": "אילת"
+    },
+    "113": {
+        "branchName": " כרמיאל קק\"ל",
+        "branchCity": "כרמיאל"
+    },
+    "114": {
+        "branchName": " אלנבי",
+        "branchCity": "תל אביב - יפו"
+    },
+    "115": {
+        "branchName": " בת-ים",
+        "branchCity": "בת ים"
+    },
+    "116": {
+        "branchName": " פסגת זאב",
+        "branchCity": "ירושלים"
+    },
+    "117": {
+        "branchName": " אשדוד סטאר-סנטר",
+        "branchCity": "אשדוד"
+    },
+    "118": {
+        "branchName": " לוד",
+        "branchCity": "לוד"
+    },
+    "119": {
+        "branchName": " עמק-סנטר עפולה",
+        "branchCity": "עפולה"
+    },
+    "120": {
+        "branchName": " קניון גבעתיים",
+        "branchCity": "גבעתיים"
+    },
+    "121": {
+        "branchName": " בית הכרם",
+        "branchCity": "ירושלים"
+    },
+    "122": {
+        "branchName": " לב העיר קרית גת",
+        "branchCity": "קרית גת"
+    },
+    "124": {
+        "branchName": " מגדל העמק",
+        "branchCity": "מגדל העמק"
+    },
+    "125": {
+        "branchName": " מודיעין ישפרו",
+        "branchCity": "מודיעין - מכבים - רעות"
+    },
+    "126": {
+        "branchName": " אור יהודה",
+        "branchCity": "אור יהודה"
+    },
+    "127": {
+        "branchName": " אוסישקין רמה\"ש",
+        "branchCity": "רמת השרון"
+    },
+    "128": {
+        "branchName": " אופקים",
+        "branchCity": "אופקים"
+    },
+    "129": {
+        "branchName": " אום-אל-פאחם",
+        "branchCity": "אום אל פחם"
+    },
+    "130": {
+        "branchName": " יפו",
+        "branchCity": "תל אביב - יפו"
+    },
+    "131": {
+        "branchName": " נוף הגליל",
+        "branchCity": "נוף הגליל (נצרת עילית)"
+    },
+    "132": {
+        "branchName": " שדרות",
+        "branchCity": "שדרות"
+    },
+    "133": {
+        "branchName": " נתיבות",
+        "branchCity": "נתיבות"
+    },
+    "134": {
+        "branchName": " כפר יאסיף",
+        "branchCity": "כפר יאסיף"
+    },
+    "135": {
+        "branchName": " דימונה",
+        "branchCity": "דימונה"
+    },
+    "136": {
+        "branchName": " גאלרי רשל\"צ",
+        "branchCity": "ראשון לציון"
+    },
+    "137": {
+        "branchName": " רמת החייל",
+        "branchCity": "תל אביב - יפו"
+    },
+    "138": {
+        "branchName": " הדסה עין כרם",
+        "branchCity": "ירושלים"
+    },
+    "139": {
+        "branchName": " העצמאות קרית-אתא",
+        "branchCity": "קרית אתא"
+    },
+    "140": {
+        "branchName": " האר\"י נתניה",
+        "branchCity": "נתניה"
+    },
+    "141": {
+        "branchName": " וייצמן חולון",
+        "branchCity": "חולון"
+    },
+    "142": {
+        "branchName": " הרצליה-פיתוח",
+        "branchCity": "הרצליה"
+    },
+    "143": {
+        "branchName": " שפרעם",
+        "branchCity": "שפרעם"
+    },
+    "144": {
+        "branchName": " התמרים אילת",
+        "branchCity": "אילת"
+    },
+    "145": {
+        "branchName": " ממילא",
+        "branchCity": "ירושלים"
+    },
+    "146": {
+        "branchName": " גדרה",
+        "branchCity": "גדרה"
+    },
+    "147": {
+        "branchName": " שער- רחובות",
+        "branchCity": "רחובות"
+    },
+    "148": {
+        "branchName": " קניון-ערים",
+        "branchCity": "כפר סבא"
+    },
+    "149": {
+        "branchName": " יד-אליהו",
+        "branchCity": "תל אביב - יפו"
+    },
+    "150": {
+        "branchName": " ביג קסטינה",
+        "branchCity": "באר טוביה"
+    },
+    "151": {
+        "branchName": " ביג-יקנעם",
+        "branchCity": "יקנעם"
+    },
+    "152": {
+        "branchName": " סכנין",
+        "branchCity": "סכנין"
+    },
+    "153": {
+        "branchName": " קניון-מודיעין",
+        "branchCity": "מודיעין - מכבים - רעות"
+    },
+    "154": {
+        "branchName": " מול-זכרון",
+        "branchCity": "זכרון יעקב"
+    },
+    "155": {
+        "branchName": " עכו",
+        "branchCity": "עכו"
+    },
+    "156": {
+        "branchName": " קרית-ים",
+        "branchCity": "קרית ים"
+    },
+    "157": {
+        "branchName": " פקר כפר-סבא",
+        "branchCity": "כפר סבא"
+    },
+    "158": {
+        "branchName": " ביג-פוריה",
+        "branchCity": "טבריה"
+    },
+    "159": {
+        "branchName": " ביג-נצרת",
+        "branchCity": "נצרת"
+    },
+    "160": {
+        "branchName": " איירפורט סיטי",
+        "branchCity": "לוד"
+    },
+    "161": {
+        "branchName": " ויצמן נתניה",
+        "branchCity": "נתניה"
+    },
+    "162": {
+        "branchName": " כוכב-יאיר",
+        "branchCity": "כוכב יאיר"
+    },
+    "163": {
+        "branchName": " הרצל ראשל\"צ",
+        "branchCity": "ראשון לציון"
+    },
+    "164": {
+        "branchName": " נוה-זאב",
+        "branchCity": "באר שבע"
+    },
+    "167": {
+        "branchName": " שחמון אילת",
+        "branchCity": "אילת"
+    },
+    "168": {
+        "branchName": " הקניון הגדול - פ\"ת",
+        "branchCity": "פתח תקווה"
+    },
+    "169": {
+        "branchName": " יכין-סנטר",
+        "branchCity": "פתח תקווה"
+    },
+    "170": {
+        "branchName": " ביג צ'ק פוסט",
+        "branchCity": "חיפה"
+    },
+    "171": {
+        "branchName": " בית-שאן",
+        "branchCity": "בית שאן"
+    },
+    "172": {
+        "branchName": " מגדל-שלום",
+        "branchCity": "תל אביב - יפו"
+    },
+    "173": {
+        "branchName": " כפר-גנים",
+        "branchCity": "פתח תקווה"
+    },
+    "174": {
+        "branchName": " רמלוד",
+        "branchCity": "רמלה"
+    },
+    "175": {
+        "branchName": " צמרת ת\"א",
+        "branchCity": "תל אביב - יפו"
+    },
+    "176": {
+        "branchName": " בית-האומות",
+        "branchCity": "ירושלים"
+    },
+    "178": {
+        "branchName": " ביג קרית-גת",
+        "branchCity": "קרית גת"
+    },
+    "179": {
+        "branchName": " העצמאות בת-ים",
+        "branchCity": "בת ים"
+    },
+    "181": {
+        "branchName": " צים נתיבות",
+        "branchCity": "נתיבות"
+    },
+    "182": {
+        "branchName": " מזכרת-בתיה",
+        "branchCity": "מזכרת בתיה"
+    },
+    "183": {
+        "branchName": " חדרה-מזרח",
+        "branchCity": "חדרה"
+    },
+    "184": {
+        "branchName": " רמות ירושלים",
+        "branchCity": "ירושלים"
+    },
+    "185": {
+        "branchName": " אזור התעשיה חולון",
+        "branchCity": "חולון"
+    },
+    "186": {
+        "branchName": " ישפרו נס-ציונה",
+        "branchCity": "נס ציונה"
+    },
+    "188": {
+        "branchName": " מגדלי תל-אביב",
+        "branchCity": "תל אביב - יפו"
+    },
+    "189": {
+        "branchName": " פלורנטין תל-אביב",
+        "branchCity": "תל אביב - יפו"
+    },
+    "190": {
+        "branchName": " טבעון",
+        "branchCity": "טבעון"
+    },
+    "191": {
+        "branchName": " עיר-ימים נתניה",
+        "branchCity": "נתניה"
+    },
+    "192": {
+        "branchName": " ביג קרית-שמונה",
+        "branchCity": "קרית שמונה"
+    },
+    "193": {
+        "branchName": " ביג אור-יהודה",
+        "branchCity": "אור יהודה"
+    },
+    "194": {
+        "branchName": " ביג פרדס-חנה",
+        "branchCity": "פרדס חנה כרכור"
+    },
+    "195": {
+        "branchName": " קסטל ת\"א",
+        "branchCity": "תל אביב - יפו"
+    },
+    "196": {
+        "branchName": " תל-מונד",
+        "branchCity": "תל מונד"
+    },
+    "198": {
+        "branchName": " קניון בית-שמש",
+        "branchCity": "בית שמש"
+    },
+    "199": {
+        "branchName": " אם-המושבות פ\"ת",
+        "branchCity": "פתח תקווה"
+    },
+    "200": {
+        "branchName": " מעלות",
+        "branchCity": "מעלות"
+    },
+    "201": {
+        "branchName": " ביג-עפולה",
+        "branchCity": "עפולה"
+    },
+    "204": {
+        "branchName": " גרנד באר-שבע",
+        "branchCity": "באר שבע"
+    },
+    "205": {
+        "branchName": " נמל תל-אביב",
+        "branchCity": "תל אביב - יפו"
+    },
+    "206": {
+        "branchName": " קדימה",
+        "branchCity": "קדימה"
+    },
+    "207": {
+        "branchName": " רמת-ישי",
+        "branchCity": "רמת ישי"
+    },
+    "208": {
+        "branchName": " קניון טבריה",
+        "branchCity": "טבריה"
+    },
+    "209": {
+        "branchName": " שנקר חולון",
+        "branchCity": "חולון"
+    },
+    "210": {
+        "branchName": " מגדל האופרה",
+        "branchCity": "תל אביב - יפו"
+    },
+    "212": {
+        "branchName": " טמרה",
+        "branchCity": "טמרה"
+    },
+    "213": {
+        "branchName": " סנטרו רחובות",
+        "branchCity": "רחובות"
+    },
+    "215": {
+        "branchName": " מצליח",
+        "branchCity": "רמלה"
+    },
+    "216": {
+        "branchName": " קרית-מוצקין",
+        "branchCity": "קרית מוצקין"
+    },
+    "217": {
+        "branchName": " ככר דיזינגוף",
+        "branchCity": "תל אביב - יפו"
+    },
+    "219": {
+        "branchName": "גאלרי כיכר-ציון",
+        "branchCity": "ירושלים"
+    },
+    "220": {
+        "branchName": " ארלוזורוב",
+        "branchCity": "תל אביב - יפו"
+    },
+    "221": {
+        "branchName": " שער-הצפון ק.אתא",
+        "branchCity": "קרית אתא"
+    },
+    "222": {
+        "branchName": " טירת-הכרמל",
+        "branchCity": "טירת הכרמל"
+    },
+    "223": {
+        "branchName": " רמות רכס",
+        "branchCity": "באר שבע"
+    },
+    "224": {
+        "branchName": " רמת-הנשיא חיפה",
+        "branchCity": "חיפה"
+    },
+    "225": {
+        "branchName": " כפר-סבא הירוקה",
+        "branchCity": "כפר סבא"
+    },
+    "226": {
+        "branchName": " עמק רפאים",
+        "branchCity": "ירושלים"
+    },
+    "227": {
+        "branchName": " בית-הבד",
+        "branchCity": "הוד השרון"
+    },
+    "228": {
+        "branchName": " גן יבנה",
+        "branchCity": "גן יבנה"
+    },
+    "229": {
+        "branchName": " ארנה נהריה",
+        "branchCity": "נהריה"
+    },
+    "230": {
+        "branchName": " ביג-פאשן אשדוד",
+        "branchCity": "אשדוד"
+    },
+    "231": {
+        "branchName": " צפת",
+        "branchCity": "צפת"
+    },
+    "232": {
+        "branchName": " רמב\"ם חיפה",
+        "branchCity": "חיפה"
+    },
+    "233": {
+        "branchName": " אגמים נתניה",
+        "branchCity": "נתניה"
+    },
+    "234": {
+        "branchName": " שרונה ת''א",
+        "branchCity": "תל אביב - יפו"
+    },
+    "235": {
+        "branchName": " קרית חיים",
+        "branchCity": "חיפה"
+    },
+    "236": {
+        "branchName": " אור-עקיבא",
+        "branchCity": "אור עקיבא"
+    },
+    "237": {
+        "branchName": " הקישון יבנה",
+        "branchCity": "יבנה"
+    },
+    "238": {
+        "branchName": " יבנה הירוקה",
+        "branchCity": "יבנה"
+    },
+    "239": {
+        "branchName": " צייטלין ת\"א",
+        "branchCity": "תל אביב - יפו"
+    },
+    "240": {
+        "branchName": " אליהו קורן י-ם",
+        "branchCity": "ירושלים"
+    },
+    "242": {
+        "branchName": " יפיע",
+        "branchCity": "נצרת"
+    },
+    "243": {
+        "branchName": " שבזי ראש-העין",
+        "branchCity": "ראש העין"
+    },
+    "244": {
+        "branchName": " המכללה ראשל\"צ",
+        "branchCity": "ראשון לציון"
+    },
+    "245": {
+        "branchName": " חוצות אשקלון",
+        "branchCity": "אשקלון"
+    },
+    "246": {
+        "branchName": " קרית-השרון",
+        "branchCity": "נתניה"
+    },
+    "247": {
+        "branchName": " גבעת-שמואל",
+        "branchCity": "גבעת שמואל"
+    },
+    "248": {
+        "branchName": " קניון מבשרת",
+        "branchCity": "מבשרת ציון"
+    },
+    "249": {
+        "branchName": " קניון באר-יעקב",
+        "branchCity": "באר יעקב"
+    },
+    "250": {
+        "branchName": " קניון הראל",
+        "branchCity": "מבשרת ציון"
+    },
+    "252": {
+        "branchName": " קניון TLV",
+        "branchCity": "תל אביב - יפו"
+    },
+    "253": {
+        "branchName": " נופי ים תל אביב",
+        "branchCity": "תל אביב - יפו"
+    },
+    "255": {
+        "branchName": " מור",
+        "branchCity": "בני ברק"
+    },
+    "256": {
+        "branchName": " קניון ראשונים",
+        "branchCity": "ראשון לציון"
+    },
+    "257": {
+        "branchName": " ישפרו פלאנט ב\"ש",
+        "branchCity": "באר שבע"
+    },
+    "258": {
+        "branchName": " רחובות החדשה",
+        "branchCity": "רחובות"
+    },
+    "260": {
+        "branchName": " קרית-שרת חולון",
+        "branchCity": "חולון"
+    },
+    "261": {
+        "branchName": " מגדלי אלון ת\"א",
+        "branchCity": "תל אביב - יפו"
+    },
+    "263": {
+        "branchName": " איינשטיין חיפה",
+        "branchCity": "חיפה"
+    },
+    "264": {
+        "branchName": " אסף הרופא",
+        "branchCity": "באר יעקב"
+    },
+    "265": {
+        "branchName": " מול-החוף חדרה",
+        "branchCity": "חדרה"
+    },
+    "266": {
+        "branchName": " טיילת אילת",
+        "branchCity": "אילת"
+    },
+    "267": {
+        "branchName": " ירכא",
+        "branchCity": "ירכא"
+    },
+    "268": {
+        "branchName": " אבן-יהודה",
+        "branchCity": "אבן יהודה"
+    },
+    "269": {
+        "branchName": " גלובוס אשקלון",
+        "branchCity": "אשקלון"
+    },
+    "270": {
+        "branchName": " דרך בר-לב ת\"א",
+        "branchCity": "תל אביב - יפו"
+    },
+    "271": {
+        "branchName": " נוה-הדרים",
+        "branchCity": "ראשון לציון"
+    },
+    "272": {
+        "branchName": " קניון ביאליק ר\"ג",
+        "branchCity": "רמת גן"
+    },
+    "273": {
+        "branchName": " קניון עזריאלי רמלה",
+        "branchCity": "רמלה"
+    },
+    "274": {
+        "branchName": " עטרות",
+        "branchCity": "ירושלים"
+    },
+    "275": {
+        "branchName": " שכונת הפארק חדרה",
+        "branchCity": "חדרה"
+    },
+    "276": {
+        "branchName": " קניון עזריאלי אור-יהודה",
+        "branchCity": "אור יהודה"
+    },
+    "277": {
+        "branchName": " שער ראשון",
+        "branchCity": "ראשון לציון"
+    },
+    "278": {
+        "branchName": " חריש",
+        "branchCity": "חריש"
+    },
+    "279": {
+        "branchName": " בורוכוב גבעתיים",
+        "branchCity": "גבעתיים"
+    },
+    "280": {
+        "branchName": " הר-יונה",
+        "branchCity": "נוף הגליל (נצרת עילית)"
+    },
+    "281": {
+        "branchName": " ראש-פינה",
+        "branchCity": "ראש פינה"
+    },
+    "282": {
+        "branchName": " גושן קרית-מוצקין",
+        "branchCity": "קרית מוצקין"
+    },
+    "283": {
+        "branchName": " רכבת עפולה",
+        "branchCity": "עפולה"
+    },
+    "284": {
+        "branchName": " קניון אורות",
+        "branchCity": "אור עקיבא"
+    },
+    "285": {
+        "branchName": " קניון האחים ישראל",
+        "branchCity": "ירושלים"
+    },
+    "286": {
+        "branchName": " קינג ג'ורג' ירושלים",
+        "branchCity": "ירושלים"
+    },
+    "287": {
+        "branchName": " דליית אל-כרמל",
+        "branchCity": "דליית אל כרמל"
+    },
+    "288": {
+        "branchName": " ערערה בנגב",
+        "branchCity": "ערערה בנגב"
+    },
+    "289": {
+        "branchName": " כפר כנא",
+        "branchCity": "כפר כנא"
+    },
+    "290": {
+        "branchName": " באקה סנטר",
+        "branchCity": "באקה אל גרביה"
+    },
+    "291": {
+        "branchName": " מול כנרת צמח",
+        "branchCity": "עמק הירדן"
+    },
+    "292": {
+        "branchName": " דושי סנטר נצרת",
+        "branchCity": "נצרת"
+    },
+    "293": {
+        "branchName": " רמבלס סנטר רמלה",
+        "branchCity": "רמלה"
+    },
+    "294": {
+        "branchName": " כפר-קרע",
+        "branchCity": "כפר קרע"
+    },
+    "295": {
+        "branchName": " ביג יהוד",
+        "branchCity": "יהוד"
+    },
+    "296": {
+        "branchName": " ג'דיידה מכר",
+        "branchCity": "גדיידה מכר"
+    },
+    "297": {
+        "branchName": " דרך מצדה ב\"ש",
+        "branchCity": "באר שבע"
+    },
+    "298": {
+        "branchName": " שכונת הפארק בת-ים",
+        "branchCity": "בת ים"
+    },
+    "299": {
+        "branchName": " יוקלר עפולה",
+        "branchCity": "עפולה"
+    },
+    "300": {
+        "branchName": " צורן",
+        "branchCity": "צורן"
+    },
+    "301": {
+        "branchName": " פסגת-דן ר\"ג",
+        "branchCity": "רמת גן"
+    },
+    "302": {
+        "branchName": " דימונה דימרי סנטר",
+        "branchCity": "דימונה"
+    },
+    "303": {
+        "branchName": " רכבת לוד",
+        "branchCity": "לוד"
+    },
+    "304": {
+        "branchName": " נתיבות מערב",
+        "branchCity": "נתיבות"
+    },
+    "305": {
+        "branchName": " ברנע אשקלון",
+        "branchCity": "אשקלון"
+    },
+    "306": {
+        "branchName": " כפר-יונה",
+        "branchCity": "כפר יונה"
+    },
+    "307": {
+        "branchName": " נווה-זמר רעננה",
+        "branchCity": "רעננה"
+    },
+    "308": {
+        "branchName": " הנשיאים הוד-השרון",
+        "branchCity": "הוד השרון"
+    },
+    "309": {
+        "branchName": " טירה",
+        "branchCity": "טירה"
+    },
+    "310": {
+        "branchName": " צים גני-תקוה",
+        "branchCity": "גני תקוה"
+    },
+    "311": {
+        "branchName": " הדר-גנים פ\"ת",
+        "branchCity": "פתח תקווה"
+    },
+    "312": {
+        "branchName": " פארק-הנחל באר-שבע",
+        "branchCity": "באר שבע"
+    },
+    "313": {
+        "branchName": " בסר סיטי פ\"ת",
+        "branchCity": "פתח תקווה"
+    },
+    "314": {
+        "branchName": " גליל-ים הרצליה",
+        "branchCity": "הרצליה"
+    },
+    "315": {
+        "branchName": " עראבה",
+        "branchCity": "עראבה"
+    },
+    "316": {
+        "branchName": " חורה",
+        "branchCity": "חורה"
+    },
+    "317": {
+        "branchName": " קרני שמרון",
+        "branchCity": "קרני שומרון"
+    },
+    "318": {
+        "branchName": " אגמים אשקלון",
+        "branchCity": "אשקלון"
+    },
+    "319": {
+        "branchName": " שפיר סנטר ראש-העין",
+        "branchCity": "ראש העין"
+    },
+    "320": {
+        "branchName": " צים טייבה",
+        "branchCity": "טייבה"
+    },
+    "321": {
+        "branchName": " נאות שמיר רמלה",
+        "branchCity": "רמלה"
+    },
+    "322": {
+        "branchName": " רמת-אביב ג",
+        "branchCity": "תל אביב - יפו"
+    },
+    "323": {
+        "branchName": " נרקיסים ראשון-לציון",
+        "branchCity": "ראשון לציון"
+    },
+    "324": {
+        "branchName": " חריש בעיר",
+        "branchCity": "חריש"
+    },
+    "326": {
+        "branchName": " מרכז הנשיא רחובות",
+        "branchCity": "רחובות"
+    },
+    "327": {
+        "branchName": " אונו פארק",
+        "branchCity": "קרית אונו"
+    },
+    "328": {
+        "branchName": " מגדל ספיר",
+        "branchCity": "רמת גן"
+    },
+    "329": {
+        "branchName": " סי קרית ים",
+        "branchCity": "קרית ים"
+    },
+    "330": {
+        "branchName": " גבעת אלונים",
+        "branchCity": "קרית אתא"
+    },
+    "670": {
+        "branchName": "עמק חפר כמיפל",
+        "branchCity": "עמק חפר"
+    }
+}
