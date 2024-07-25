@@ -1,0 +1,9 @@
+name: sf-finder
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - pip
+  - python=3.11.9
+  - pip:
+      - -r ./requirements.txt
